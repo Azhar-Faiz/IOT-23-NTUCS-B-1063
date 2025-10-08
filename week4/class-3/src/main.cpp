@@ -1,7 +1,3 @@
-//23-ntu-cs-1063
-//Azhar faiz
-
-
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
