@@ -11,8 +11,8 @@
 #define LONG_PRESS 1500 // in ms
 
 #define SCREEN_WIDTH 128
-#define SCREEN_HEIGHT 64
-Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
+#define SCREEN_LENGTH 64
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_LENGTH, &Wire, -1);
 
 int melody[] = {
   440, 440, 440, 349, 523, 440, 349, 523, 440,            //STAR WARS intro melody 
