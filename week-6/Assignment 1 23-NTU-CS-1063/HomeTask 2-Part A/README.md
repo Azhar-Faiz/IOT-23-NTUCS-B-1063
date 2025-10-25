@@ -1,19 +1,24 @@
 WOKWI LINK:
-https://wokwi.com/projects/445786634078854145
+https://wokwi.com/projects/445785804299652097
 
 WORKING PICTURES:
-![START PIC](PICS_VIDEO/Working_Pic.jpg)
-![LED ON](PICS_VIDEO/Working_Pic_2.jpg)
-![LED OFF](PICS_VIDEO/Working_Pic_3.jpg)
-![MELODY PLAYING](PICS_VIDEO/Working_Pic_4.jpg)
+![ALL OFF](PICS_VIDEO/PIC_1.jpg)
+![Alternate](PICS_VIDEO/PIC_2.jpg)
+![All ON](PICS_VIDEO/PIC_3.jpg)
+![PWM](PICS_VIDEO/PIC_4.jpg)
 
 PIN MAP:
-![](<PICS_VIDEO/PIN MAP.jpg>)
+![PIN PIC](<PICS_VIDEO/PIN MAP.jpg>)
 
 CODE:
-![CODE](PICS_VIDEO/CODE_1.jpg)
-![CODE](PICS_VIDEO/CODE_2.jpg)
-![CODE](PICS_VIDEO/CODE_3.jpg)
+![Code](PICS_VIDEO/CODE_1.jpg)
+![Code](PICS_VIDEO/CODE_2.jpg)
+![Code](PICS_VIDEO/CODE_3.jpg)
+![Code](PICS_VIDEO/CODE_4.jpg)
 
 HANDMADE DIAGRAM:
 ![DIAGRAM](<PICS_VIDEO/CIRCUIT DIAGRAM.jpg>)
+
+
+VIDEO OF WORKING:
+<video controls src="PICS_VIDEO/WORKING_VIDEO.mp4" title="Title"></video>
