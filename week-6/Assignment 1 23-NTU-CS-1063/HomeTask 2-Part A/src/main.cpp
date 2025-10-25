@@ -1,3 +1,8 @@
+// Week6-Assignment1-Q3-TaskA
+// Embedded IoT System Fall-2025
+// Change Modes of LEDs using 2 Buttons
+// Name: Muhammad Azhar Faiz                 Reg#: 23-ntu-cs-1063
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
