@@ -1,3 +1,8 @@
+// Week6-Assignment1-Q3-TaskB
+// Embedded IoT System Fall-2025
+// Change Between LED and Buzzer Tone using Short or long Hold on Button Respectively
+// Name: Muhammad Azhar Faiz                 Reg#: 23-ntu-cs-1063
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
